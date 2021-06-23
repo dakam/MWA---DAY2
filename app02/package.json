@@ -1,0 +1,18 @@
+{
+  "name": "app02",
+  "version": "1.0.0",
+  "description": "MEAN GAMES APPLICATION",
+  "main": "app02.js",
+  "scripts": {
+    "start": "node app02.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "damian Kato",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
